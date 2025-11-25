@@ -1,6 +1,8 @@
 # Luffy-breaks-into-the-fridge
 
-One Piece is a popular manga/anime with over 1100 episodes. Luffy is the captain of the Straw Hat Pirates and the main protagonist of the series. Luffy is known for his insatiable hunger, and a popular fan interaction is him sneaking into the ship's kitchen late at night to break into the locked fridge. Sanji is the crew's cook and, depending on who you ask, the 2nd/3rd/4th strongest member on the crew. The scene I'm depicting in Bitsy would be Luffy sneaking from the men's sleeping quarters to the kitchen, only to be met with Sanji standing guard in front of the fridge.
+One Piece is a popular manga/anime with over 1100 episodes. Luffy is the captain of the Straw Hat Pirates and the main protagonist of the series. Luffy is known for his insatiable hunger, and a popular fan interaction is him sneaking into the ship's kitchen late at night to break into the locked fridge. Sanji is the crew's cook and, depending on who you ask, the 2nd/3rd/4th strongest member on the crew. 
+
+The scene I'm depicting in Bitsy would be Luffy sneaking from the men's sleeping quarters to the kitchen, only to be met with Sanji standing guard in front of the fridge.
 
 Link to a reference video: https://www.youtube.com/watch?v=hYfXv5Ai0w4
 
