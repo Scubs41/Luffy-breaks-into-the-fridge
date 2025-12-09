@@ -6,7 +6,11 @@ The scene I'm depicting in Bitsy would be Luffy sneaking from the men's sleeping
 
 Link to a reference video: https://www.youtube.com/watch?v=hYfXv5Ai0w4
 
-1. The player wakes up in the men's sleeping quarters Ussop, Zoro, Jimbe, Franky, Chopper, and Brook are sleeping. Sanji is noticeably missing.
-2. The player leaves the room, walking across the deck of the Sunny to the Kitchen.
-3. The player enters the Kitchen and walks toward the fridge, only to find Sanji standing in front.
-4. After a dialogue, a turn-based battle breaks out, which is scripted to end with Sanji fending off Luffy from the fridge, for now.
+1. The player wakes up in the men's sleeping quarters, where Ussop is sleeping.
+2. If the player interacts with Usopp, they can steal the key to the fridge from him.
+3. The player leaves the room, walking across the deck of the Sunny to the kitchen.
+4. The player enters the kitchen and walks toward the fridge, only to find Sanji standing in front.
+5. A sequence of dialogue between Luffy and Sanji ends with Sanji shouting "NO!" with shaking text
+6. The player goes to the fridge
+7. If the player stole the key from Usopp, then Luffy opens the fridge, and the game ends
+8. If the player doesn't have the key, they'll have to backtrack to Usopp in the first room and come back with the key to end the game.
